@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[3714],{1675:s=>{s.exports=JSON.parse('{"label":"hola","permalink":"/github-fcthkv/blog/tags/hola","allTagsPath":"/github-fcthkv/blog/tags","count":1,"unlisted":false}')}}]);
